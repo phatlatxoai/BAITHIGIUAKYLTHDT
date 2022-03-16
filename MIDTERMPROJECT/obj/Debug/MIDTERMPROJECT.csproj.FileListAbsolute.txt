@@ -1,0 +1,17 @@
+E:\VLU\Lap trinh huong doi tuong\bai 2 ex\MIDTERMPROJECT\MIDTERMPROJECT\bin\Debug\MIDTERMPROJECT.exe.config
+E:\VLU\Lap trinh huong doi tuong\bai 2 ex\MIDTERMPROJECT\MIDTERMPROJECT\bin\Debug\MIDTERMPROJECT.exe
+E:\VLU\Lap trinh huong doi tuong\bai 2 ex\MIDTERMPROJECT\MIDTERMPROJECT\bin\Debug\MIDTERMPROJECT.pdb
+E:\VLU\Lap trinh huong doi tuong\bai 2 ex\MIDTERMPROJECT\MIDTERMPROJECT\bin\Debug\EntityFramework.dll
+E:\VLU\Lap trinh huong doi tuong\bai 2 ex\MIDTERMPROJECT\MIDTERMPROJECT\bin\Debug\EntityFramework.SqlServer.dll
+E:\VLU\Lap trinh huong doi tuong\bai 2 ex\MIDTERMPROJECT\MIDTERMPROJECT\bin\Debug\EntityFramework.xml
+E:\VLU\Lap trinh huong doi tuong\bai 2 ex\MIDTERMPROJECT\MIDTERMPROJECT\bin\Debug\EntityFramework.SqlServer.xml
+E:\VLU\Lap trinh huong doi tuong\bai 2 ex\MIDTERMPROJECT\MIDTERMPROJECT\obj\Debug\MIDTERMPROJECT.csproj.AssemblyReference.cache
+E:\VLU\Lap trinh huong doi tuong\bai 2 ex\MIDTERMPROJECT\MIDTERMPROJECT\obj\Debug\MIDTERMPROJECT.csproj.SuggestedBindingRedirects.cache
+E:\VLU\Lap trinh huong doi tuong\bai 2 ex\MIDTERMPROJECT\MIDTERMPROJECT\obj\Debug\MIDTERMPROJECT.Form1.resources
+E:\VLU\Lap trinh huong doi tuong\bai 2 ex\MIDTERMPROJECT\MIDTERMPROJECT\obj\Debug\MIDTERMPROJECT.Form2.resources
+E:\VLU\Lap trinh huong doi tuong\bai 2 ex\MIDTERMPROJECT\MIDTERMPROJECT\obj\Debug\MIDTERMPROJECT.Properties.Resources.resources
+E:\VLU\Lap trinh huong doi tuong\bai 2 ex\MIDTERMPROJECT\MIDTERMPROJECT\obj\Debug\MIDTERMPROJECT.csproj.GenerateResource.cache
+E:\VLU\Lap trinh huong doi tuong\bai 2 ex\MIDTERMPROJECT\MIDTERMPROJECT\obj\Debug\MIDTERMPROJECT.csproj.CoreCompileInputs.cache
+E:\VLU\Lap trinh huong doi tuong\bai 2 ex\MIDTERMPROJECT\MIDTERMPROJECT\obj\Debug\MIDTERMPROJECT.csproj.CopyComplete
+E:\VLU\Lap trinh huong doi tuong\bai 2 ex\MIDTERMPROJECT\MIDTERMPROJECT\obj\Debug\MIDTERMPROJECT.exe
+E:\VLU\Lap trinh huong doi tuong\bai 2 ex\MIDTERMPROJECT\MIDTERMPROJECT\obj\Debug\MIDTERMPROJECT.pdb
